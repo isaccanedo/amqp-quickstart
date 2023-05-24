@@ -4,7 +4,7 @@ Início rápido do Quarkus AMQP 1.0
 Este projeto ilustra como você pode interagir com o AMQP 1.0 (Apache Artemis neste início rápido) usando MicroProfile Reactive Messaging.
 As instruções completas estão disponíveis em https://quarkus.io/guides/amqp.
 
-## Start the application in dev mode
+## Inicie o aplicativo no modo de desenvolvimento
 
 In a first terminal, run:
 
