@@ -6,7 +6,7 @@ As instruções completas estão disponíveis em https://quarkus.io/guides/amqp.
 
 ## Inicie o aplicativo no modo de desenvolvimento
 
-In a first terminal, run:
+Em um primeiro terminal, execute:
 
 ```bash
 > mvn -f amqp-quickstart-producer quarkus:dev
