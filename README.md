@@ -1,8 +1,8 @@
 Início rápido do Quarkus AMQP 1.0
 ============================
 
-This project illustrates how you can interact with AMQP 1.0 (Apache Artemis in this quickstart) using MicroProfile Reactive Messaging.
-The complete instructions are available on https://quarkus.io/guides/amqp.
+Este projeto ilustra como você pode interagir com o AMQP 1.0 (Apache Artemis neste início rápido) usando MicroProfile Reactive Messaging.
+As instruções completas estão disponíveis em https://quarkus.io/guides/amqp.
 
 ## Start the application in dev mode
 
