@@ -18,7 +18,7 @@ Em um segundo terminal, execute:
 > mvn -f amqp-quickstart-processor quarkus:dev
 ```  
 
-Then, open your browser to `http://localhost:8080/quotes.html`, and click on the "Request Quote" button.
+Em seguida, abra seu navegador em `http://localhost:8080/quotes.html`, e clique no botão "Solicitar Orçamento".
 
 ## Build the application in JVM mode
 
