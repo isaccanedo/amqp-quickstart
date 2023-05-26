@@ -12,7 +12,7 @@ Em um primeiro terminal, execute:
 > mvn -f amqp-quickstart-producer quarkus:dev
 ```
 
-In a second terminal, run:
+Em um segundo terminal, execute:
 
 ```bash
 > mvn -f amqp-quickstart-processor quarkus:dev
