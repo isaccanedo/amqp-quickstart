@@ -38,7 +38,7 @@ Start the broker and the applications using:
 > docker compose up --build
 ```
 
-Then, open your browser to `http://localhost:8080/quotes.html`, and click on the "Request Quote" button.
+Em seguida, abra seu navegador em `http://localhost:8080/quotes.html`, e clique no botão "Solicitar Orçamento".
  
 
 ## Build the application in native mode
