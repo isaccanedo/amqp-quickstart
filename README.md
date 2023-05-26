@@ -20,7 +20,7 @@ Em um segundo terminal, execute:
 
 Em seguida, abra seu navegador em `http://localhost:8080/quotes.html`, e clique no botão "Solicitar Orçamento".
 
-## Build the application in JVM mode
+## Crie o aplicativo no modo JVM
 
 To build the applications, run:
 
