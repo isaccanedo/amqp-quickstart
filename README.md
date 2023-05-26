@@ -41,7 +41,7 @@ Start the broker and the applications using:
 Em seguida, abra seu navegador em `http://localhost:8080/quotes.html`, e clique no botão "Solicitar Orçamento".
  
 
-## Build the application in native mode
+## Crie o aplicativo no modo nativo
 
 To build the applications into native executables, run:
 
