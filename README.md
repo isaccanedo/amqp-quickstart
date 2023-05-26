@@ -58,4 +58,4 @@ Em seguida, inicie o sistema usando:
 > export QUARKUS_MODE=native
 > docker compose up
 ```
-Then, open your browser to `http://localhost:8080/quotes.html`, and click on the "Request Quote" button.
+Em seguida, abra seu navegador em `http://localhost:8080/quotes.html`, e clique no botão "Solicitar Orçamento".
