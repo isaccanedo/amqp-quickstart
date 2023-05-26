@@ -52,7 +52,7 @@ Para criar os aplicativos em executáveis nativos, execute:
 
 O `-Dquarkus.native.container-build=true` instrui o Quarkus a construir executáveis nativos Linux 64bits, que podem rodar dentro de containers.  
 
-Then, start the system using:
+Em seguida, inicie o sistema usando:
 
 ```bash
 > export QUARKUS_MODE=native
