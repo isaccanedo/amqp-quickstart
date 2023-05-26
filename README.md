@@ -32,7 +32,7 @@ Para criar os aplicativos, execute:
 Como estamos executando no modo _prod_, precisamos fornecer um broker AMQP 1.0.
 The [docker-compose.yml](docker-compose.yml) file starts the broker and your application.
 
-Start the broker and the applications using:
+Inicie o broker e os aplicativos usando:
 
 ```bash
 > docker compose up --build
