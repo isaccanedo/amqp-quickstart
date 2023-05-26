@@ -29,7 +29,7 @@ Para criar os aplicativos, execute:
 > mvn -f amqp-quickstart-processor package
 ```
 
-Because we are running in _prod_ mode, we need to provide an AMQP 1.0 broker.
+Como estamos executando no modo _prod_, precisamos fornecer um broker AMQP 1.0.
 The [docker-compose.yml](docker-compose.yml) file starts the broker and your application.
 
 Start the broker and the applications using:
