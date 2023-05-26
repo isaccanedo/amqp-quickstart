@@ -43,7 +43,7 @@ Em seguida, abra seu navegador em `http://localhost:8080/quotes.html`, e clique 
 
 ## Crie o aplicativo no modo nativo
 
-To build the applications into native executables, run:
+Para criar os aplicativos em executáveis nativos, execute:
 
 ```bash
 > mvn -f amqp-quickstart-producer package -Pnative  -Dquarkus.native.container-build=true
