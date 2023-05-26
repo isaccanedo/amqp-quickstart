@@ -22,7 +22,7 @@ Em seguida, abra seu navegador em `http://localhost:8080/quotes.html`, e clique 
 
 ## Crie o aplicativo no modo JVM
 
-To build the applications, run:
+Para criar os aplicativos, execute:
 
 ```bash
 > mvn -f amqp-quickstart-producer package
